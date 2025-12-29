@@ -69,8 +69,8 @@ Transform your streams with stunning real-time audio waveforms that react to you
 |------|-------|----------|
 | **FREE** | $0 | Basic visualization, 1 theme, watermark |
 | **TIER 1** | $2.99/month | 5 premium themes, reduced watermark, priority support |
-| **TIER 2** | $5.99/month or $130 lifetime | 15 themes, no watermark, custom colors, emoji animations |
-| **TIER 3** | $11.99/month or $300 lifetime | Unlimited themes, white-label, API access, dedicated support |
+| **TIER 2** | $5.99/month or $40 lifetime | 15 themes, no watermark, custom colors, emoji animations |
+| **TIER 3** | $11.99/month or $90 lifetime | Unlimited themes, white-label, API access, dedicated support |
 
 👉 **[Upgrade Now](https://voicewave.space)**
 
